@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.fragment.InfoFragment1">
+
+        <TextView
+            android:layout_width="369dp"
+            android:layout_height="34dp"
+            android:elevation="12dp"
+            android:justificationMode="inter_word"
+
+            android:text="@string/copyright"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_marginTop="350dp"
+            android:layout_marginStart="20dp"
+            />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="STEPME'S NOTE"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="100dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aplikasi ini bisa mencatat kegiatan sehari-hari dalam bentuk Note."
+        android:textSize="20dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aplikasi ini pun di buat untuk memenuhi tugas pengganti UTS!"
+        android:textSize="20dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mata Kuliah Aplikasi Komputasi Bergerak"
+        android:textSize="20dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dengan dosen pengampu"
+        android:textSize="20dp"
+        android:layout_marginTop="270dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bapak Alif Finandhita, S.Kom, M.T"
+        android:textSize="20dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        />
+
+</RelativeLayout>

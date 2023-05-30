@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">10120132_Resa</string>
+    <string name="data_diri">10120132\nResa Komara Akbari\nIF-4\nresa.10120132@mahasiswa.unikom.ac.id</string>
+
+    <string name="copyright">10120132 | 30 May 2023</string>
+
+    <string name="judul">Title</string>
+    <string name="kategori">Category</string>
+    <string name="isi">Start typing</string>
+
+    <string name="page1">Page 1 of 2</string>
+    <string name="page2">Page 2 of 2</string>
+    <string name="page3">Page 3 of 3</string>
+    <string name="memo">Say hi to your first memo</string>
+    <string name="penjelasan">  First, go to the Notes tab and click + to start writing your diary</string>
+    <string name="txt_add">Add note</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
